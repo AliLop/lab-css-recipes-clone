@@ -19,7 +19,6 @@ h1 {
     padding-top: 100px;
     font-size: 50px;
     color: #ffffff;
-    
 }
 
 .container {
@@ -54,6 +53,8 @@ h2 {
 
 .list-container {
     margin-top: 21px;
+    position: relative;
+    left: -25px;
 }
 
 li {
